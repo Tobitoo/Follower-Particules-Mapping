@@ -3,22 +3,22 @@
 
 
 
-| -------------              SCREEN             ------------|
+| ------------    SCREEN          ------------|
 
 
-…………………….. ……………………...
-I                                                              I
-I                                                I
-I     TRACK ZONE    TRACK ZONE 1     I
-I                                                I
-I                                                I
-……………………..  …………………….
-I                                                I
-I                                                I
-I    TRACK ZONE 2     TRACK ZONE 3   I
-I                                                I
-I                                                I
-  …………………….. ……………………...
+...............................................
+I                   I                         I
+I                   I                         I
+I     TRACK ZONE 0  I     TRACK ZONE 1        I
+I                   I                         I
+I                   I                         I
+I.............................................I
+I                   I                         I
+I                   I                         I
+I    TRACK ZONE 2   I     TRACK ZONE 3        I
+I                   I                         I
+I                   I                         I
+...............................................
 
 
 
